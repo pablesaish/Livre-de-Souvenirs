@@ -147,7 +147,7 @@ const Journal = () => {
         <div className="flex items-center justify-between px-8 py-4 rounded-full border border-[var(--color-border)] shadow-sm bg-white/60 backdrop-blur-xl">
           <div className="flex items-center gap-4">
             <h1 className="text-xl sm:text-2xl font-normal tracking-tight" style={{ fontFamily: 'var(--font-heading)', color: 'var(--color-ink)' }}>
-              Livre de Souvenirs
+              Pixel Diary
             </h1>
           </div>
 

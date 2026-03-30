@@ -29,11 +29,11 @@ const Login = () => {
         <div className="mb-12">
           <h1 className="text-5xl font-normal mb-3 tracking-wide"
             style={{ fontFamily: 'var(--font-heading)', color: 'var(--color-ink)' }}>
-            Livre de Souvenirs
+            Pixel Diary
           </h1>
           <p className="text-sm tracking-widest uppercase opacity-70"
             style={{ color: 'var(--color-ink-light)', fontFamily: 'var(--font-body)', fontWeight: 500 }}>
-            Your memories, beautifully framed.
+            Your memories, beautifully curated.
           </p>
         </div>
 
